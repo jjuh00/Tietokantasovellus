@@ -1,0 +1,1 @@
+Koodattu Pythonilla. Kyseessä on yksinkertainen käyttöliittymä, joka on yhdistetty yksinkertaiseen tietokantaan. Käyttöliittymä on tehty tkinter-kirjaston avulla ja tietokanta sqlite3-kirjastolla. Sovellus on kokonaisuudessaan luotu Codemy.com tkinter-videoiden avulla.

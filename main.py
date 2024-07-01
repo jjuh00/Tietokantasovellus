@@ -106,7 +106,7 @@ def poista():
     conn.commit()
     conn.close()
 
-# Tämä funtkio muokkaa tietueen tietoja
+# Tämä funktio muokkaa tietueen tietoja
 def muokkaa():
     editori = Tk()
     editori.title("Tietueen muokkaus")
